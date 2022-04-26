@@ -35,7 +35,7 @@ LSSM nie obsługuje urządzeń mobilnych. Chociaż Firefox na urządzeniach mobi
 
 Obecnie **nie** planujemy oficjalnego wsparcia przeglądarek mobilnych.
 :::
-### Krok 1: Zainstaluj Tampermonkey
+### Krok 1: Instalacja Tampermonkey
 Zainstaluj rozszerzenie Tampermonkey w swojej przeglądarce.
 
 <tampermonkey-download-table/>
