@@ -11,7 +11,7 @@
             "/verband/gebauede": "Budynki",
             "/verband/kasse": "Fundusze Sojuszu",
             "/verband/mitglieder/{id}": "Członkowie",
-            "/verband/news/{id}": "Wiadomości",
+            "/verband/news/{id}": "Ogłoszenia",
             "/verband/regeln/{id}": "Zasady",
             "/verband/werbung": "Promuj"
         },
